@@ -1,0 +1,20 @@
+export const ConceptEnum = {
+  Assassin: 0,
+  Axemen: 1,
+  Barbarian: 2,
+  Shieldmen: 3,
+  Spearmen: 4,
+  Swordman: 5,
+  Thief: 6,
+  TribalAxemen: 7,
+  TribalSpearmen: 8,
+  AxeKnight: 9,
+  Paladin: 10,
+  SwordKnight: 11,
+  TribalArcher: 12,
+  Archer: 13,
+  Crossbowman: 14,
+  TribalCrossbowman: 15,
+  Mage: 16,
+  Priest: 17
+}

@@ -1,0 +1,20 @@
+export const MageEnum = {
+    MageAir: 0,
+    MageAnimal: 1,
+    MageBodyControl: 2,
+    MageDark: 3,
+    MageEarth: 4,
+    MageFire: 5,
+    MageHeal: 6,
+    MageIllusion: 7,
+    MageTime: 8,
+    MetaMage: 9,
+    MindControlMage: 10,
+    MoveMage: 11,
+    Necromancer: 12,
+    Priest: 13,
+    ProtectMage: 14,
+    SoundMage: 15,
+    StormMage: 16,
+    WaterMage: 17
+}
